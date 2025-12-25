@@ -12,7 +12,7 @@ Personal developer portfolio showcasing projects, skills, and experience built w
 - GSAP
 
 ## Live Demo
-https://your-portfolio-link.com
+https://github.com/krutkarsh14/utkarsh-portfolio.git
 
 ## Run Locally
 ```bash
